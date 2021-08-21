@@ -1,6 +1,6 @@
 module.exports = {
-  keywords: "keywords",
-//   comments: "Hello Subscribe my channel",
-  usernamegoogle: "username",
-  passwordgoogle: "pass",
+  keywords: "Music",
+//   comments: "Hi Subscribe my channel",
+  usernamegoogle: "mihanmy264@gmail.com",
+  passwordgoogle: "09157034964",
 };
